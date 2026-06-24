@@ -67,6 +67,6 @@ stratified 80/10/10 split, and logs every experiment to a shared results table. 
 install the optional `tensorflow-metal` plugin for GPU acceleration.
 
 ## Report & demo
-- **Report:** `Pneumonia_Report.pdf`
+- **Report:** `Shima_serein_Summaive Assignment_C2_Pneumonia_Report`
 - **Demo video:** https://drive.google.com/drive/folders/17L7Wuw9Q4uCeVoKbq9Euvr6LR915iTfD?usp=share_link
 - **GitHub repository:** https://github.com/supserrr/Model-Training-and-Evaluation
